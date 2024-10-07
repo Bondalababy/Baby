@@ -9,9 +9,9 @@ My profile
 ---
 
 **💻 Technical Skills:**
-- **Programming Languages:** C, Java (basic), Python (basic)
-- **Web Technologies:** HTML, CSS, JavaScript (currently learning)
-- **Database Management:** Basics of DBMS
+- **Languages:** C, Java (basic), Python (basic)
+- **Web Technologies:** HTML, CSS, JavaScript (learning)
+- **DBMS:** Basics of DBMS
 - **📜 Certifications:** 
   - NPTEL: Programming in Java
   - NPTEL: Joy of Computing with Python
@@ -21,8 +21,8 @@ My profile
 
 **💪 Strengths:**
 - Quick learner
-- Adapts well to new environments
-- Maintains a positive attitude in all situations
+- Adaptable to new environments
+- Positive attitude
 
 **🔍 Weaknesses:**
 - Perfectionism
@@ -31,10 +31,10 @@ My profile
 
 **🎨 Hobbies:**
 - Drawing
-- Writing poetry and songs
+- Writing poetry & songs
 - Exercising
 
 ---
 
 **🎯 Career Goal:**
-Aspiring Frontend Developer, eager to adopt and thrive in new environments.
+Aspiring Frontend Developer eager to thrive in new environments.
